@@ -1,0 +1,16 @@
+Name,Risk,SideEffects,Interaction
+Paracetamol,Low,Nausea,None
+Ibuprofen,Medium,Headache,Aspirin
+Aspirin,Medium,Dizziness,Ibuprofen
+Cetirizine,Low,Sleepiness,None
+Amoxicillin,Medium,Rash,Methotrexate
+Metformin,Medium,Diarrhea,Insulin
+Omeprazole,Low,Constipation,Clopidogrel
+Atorvastatin,Medium,Muscle pain,Grapefruit
+Lisinopril,Medium,Cough,Diuretics
+Simvastatin,Medium,Fatigue,Grapefruit
+Azithromycin,Medium,Diarrhea,Antacids
+Losartan,Low,Dizziness,Diuretics
+Levothyroxine,Low,Weight loss,Calcium
+Prednisone,High,Increased appetite,NSAIDs
+Alprazolam,High,Drowsiness,Alcohol
