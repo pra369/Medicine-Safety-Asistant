@@ -13,7 +13,7 @@ CSV_FILE = "medicines.csv"
 try:
     df = pd.read_csv(CSV_FILE)
 except:
-    st.error("❌ medicines.csv file sapdat nahiye!")
+    st.error("❌ medicines.csv not find!")
     st.stop()
 
 # --- FUNCTION: Risk Color ---
@@ -87,4 +87,5 @@ if st.button("Search"):
 
 st.markdown("---")
 st.caption("MedSafe AI © 2026 | Educational & Non-Diagnostic")
+
 
