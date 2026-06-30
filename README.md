@@ -24,6 +24,7 @@ Category
 Tools
 Language
 Python
+
 Web Framework
 Streamlit
 OCR
@@ -32,5 +33,7 @@ Image Processing
 Pillow
 Data Storage
 CSV
+
+
 Version Control
 Git, GitHub
