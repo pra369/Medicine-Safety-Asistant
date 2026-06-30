@@ -4,6 +4,8 @@ A Python-based web application that helps users verify and search medicine infor
 
 live app:-https://medicine-safety-asistant-mtyfjtn9wbkwrt7vekmvfr.streamlit.app/
 
+GitHub Repository:-https://github.com/pra369/Medicine-Safety-Asistant
+
 🔍 Overview
 
 Medicine Safety Assistant takes a prescription image as input, extracts the medicine names using OCR, and matches them against a medicine database using a custom match-score algorithm — helping users quickly verify what's been prescribed.
